@@ -308,7 +308,7 @@ $color-5: #a79f88;
   height: 336px;
   background-color: #f3efef;
   padding: 75px 0 0 0;
-  width: 1920px;
+  max-width: 1920px;
   margin: 0 auto;
 }
 .register__wrapper {
@@ -353,7 +353,7 @@ $color-5: #a79f88;
   height: 53px;
 }
 .footer {
-  width: 1920px;
+  max-width: 1920px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
